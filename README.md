@@ -14,22 +14,6 @@ npm install
 -   libpostgresbridge
 ---
 
-## backendpostgress
-│
-├── api
-│   └── controladores
-│       ├── productosController.js
-│       ├── usuariosController.js
-│       ├── direccionesController.js
-│       ├── ventasController.js
-│       └── detalleventasController.js
-│
-├── routes.js
-├── app.js
-├── config.js
-└── package.json
-
-
 # Endpoints de la API
 #### Productos
 #### Obtener todos los productos
